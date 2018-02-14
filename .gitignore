@@ -1,0 +1,14 @@
+**/terraform.tfvars
+**/terraform.tfstate
+**/terraform.tfstate.backup
+**/terraform.tfplan
+**/terraform.tfvars
+**/variables.tf
+**/.terraform/**
+**/crash.log
+**/*.tfplan
+debuglog.txt
+**/terraform_plugins/**
+**/.vscode/**
+**/*.bak
+**/*.txt
